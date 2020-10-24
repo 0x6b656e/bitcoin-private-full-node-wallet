@@ -1,3 +1,5 @@
+# OLD VERSION - USED ON OLD CHAIN - NEW CHAIN will have new wallet soon
+
 # [BitcoinPrivate](https://btcprivate.org/) Full-Node Desktop Wallet
 
 ### Supports B and Z addresses. Read [here](https://github.com/BTCPrivate/bitcoin-private-full-node-wallet/blob/master/claim-btcp.md) on how to claim your BTCP from Zclassic and/or Bitcoin.
